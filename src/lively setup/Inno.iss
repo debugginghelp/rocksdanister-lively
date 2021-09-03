@@ -3,8 +3,8 @@
 
 #define MyAppName "Lively Wallpaper"
 #define MyAppVersion "0.9.5.5"
-#define MyAppPublisher "rocksdanister"
-#define MyAppURL "https://github.com/rocksdanister/lively"
+#define MyAppPublisher "debugginghelp"
+#define MyAppURL "https://github.com/debugginghelp/lively"
 #define MyAppExeName "livelywpf.exe"
 
 [CustomMessages]
